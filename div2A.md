@@ -11,7 +11,7 @@
 | 9 | [Infinity Gauntlet](https://codeforces.com/problemset/problem/987/A) | 700 | 1 |
 | 10 | [Petya and Origami](https://codeforces.com/problemset/problem/1080/A) | 700 | 1 |
 | 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 | 1 |
-| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 |  |
+| 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 | 1 |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 |  |
 | 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
 | 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
