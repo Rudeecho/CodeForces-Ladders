@@ -13,7 +13,7 @@
 | 11 | [The Rank](https://codeforces.com/problemset/problem/1017/A) | 700 | 1 |
 | 12 | [Nastya Is Reading a Book](https://codeforces.com/problemset/problem/1136/A) | 700 | 1 |
 | 13 | [Fingerprints](https://codeforces.com/problemset/problem/994/A) | 700 | 1 |
-| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 |  |
+| 14 | [Game](https://codeforces.com/problemset/problem/984/A) | 700 | 1 |
 | 15 | [Choose Two Numbers](https://codeforces.com/problemset/problem/1206/A) | 800 |  |
 | 16 | [Ehab and another construction problem](https://codeforces.com/problemset/problem/1088/A) | 800 |  |
 | 17 | [Olympiad](https://codeforces.com/problemset/problem/937/A) | 800 |  |
