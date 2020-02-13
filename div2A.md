@@ -34,7 +34,7 @@
 | 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 | 1 |
 | 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 | 1 |
 | 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 | 1 |
-| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |  |
+| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 | 1 |
 | 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
 | 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 |  |
 | 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
