@@ -36,7 +36,7 @@
 | 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 | 1 |
 | 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 | 1 |
 | 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 | 1 |
-| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 |  |
+| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 | 1 |
 | 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
 | 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |  |
 | 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  |
