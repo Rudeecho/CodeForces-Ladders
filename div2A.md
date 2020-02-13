@@ -45,7 +45,7 @@
 | 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 | 1 |
 | 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 | 1 |
 | 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 | 1 |
-| 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 |  |
+| 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 | 1 |
 | 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 |  |
 | 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
 | 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 |  |
